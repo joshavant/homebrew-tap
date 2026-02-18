@@ -3,9 +3,9 @@ class Clawbox < Formula
 
   desc "Provision and manage Clawbox macOS VMs with Tart"
   homepage "https://github.com/joshavant/clawbox"
-  url "https://github.com/joshavant/clawbox/releases/download/v1.2.0/clawbox-1.2.0.tar.gz"
-  sha256 "e7981c4025eb0a2659cb32c1566485710c72fe2b59e75789638d5b082063dfe6"
-  version "1.2.0"
+  url "https://github.com/joshavant/clawbox/releases/download/v1.2.1/clawbox-1.2.1.tar.gz"
+  sha256 "0db3f85f4df84d05c865bd179af40faaa4006fe72eb6c31037d44cb74efa4d85"
+  version "1.2.1"
   license "MIT"
   head "https://github.com/joshavant/clawbox.git", branch: "main"
 
